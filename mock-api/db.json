@@ -1,0 +1,96 @@
+{
+  "bills": [
+    {
+      "id": 1,
+      "date": "10/10/2010",
+      "payment": 5000,
+      "number": 5,
+      "product": {
+        "id": 1,
+        "name": "Iphone X",
+        "price": 1000,
+        "kind": "Phone"
+      }
+    },
+    {
+      "id": 2,
+      "date": "12/12/2010",
+      "payment": 60000,
+      "number": 50,
+      "product": {
+        "id": 2,
+        "name": "Iphone 16",
+        "price": 1200,
+        "kind": "Phone"
+      }
+    },
+    {
+      "id": 3,
+      "date": "20/12/2010",
+      "payment": 45000,
+      "number": 50,
+      "product": {
+        "id": 3,
+        "name": "Dell Vostrol",
+        "price": 900,
+        "kind": "Laptop"
+      }
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Iphone X",
+        "price": 1000,
+        "kind": "Phone"
+      },
+      "payment": 12000,
+      "date": "2025-02-07",
+      "number": "12",
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Iphone X",
+        "price": 1000,
+        "kind": "Phone"
+      },
+      "payment": 12000,
+      "date": "2025-02-08",
+      "number": "12",
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Iphone X",
+        "price": 1000,
+        "kind": "Phone"
+      },
+      "payment": 100000,
+      "date": "08/02/2025",
+      "number": "100",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "price": 1000,
+      "kind": "Phone"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 16",
+      "price": 1200,
+      "kind": "Phone"
+    },
+    {
+      "id": 3,
+      "name": "Dell Vostrol",
+      "price": 900,
+      "kind": "Laptop"
+    }
+  ]
+}
